@@ -1,0 +1,9 @@
+[submodule "mht-zigbee-gateway-js"]
+	path = mht-zigbee-gateway-js
+	url = git@github.com:vinhlq/mht-zigbee-gateway-js.git
+[submodule "mht-zigbee-gateway-python"]
+	path = mht-zigbee-gateway-python
+	url = git@github.com:vinhlq/mht-zigbee-gateway-python.git
+[submodule "mht-zigbee-client-js"]
+	path = mht-zigbee-client-js
+	url = git@github.com:vinhlq/mht-zigbee-client-js.git
