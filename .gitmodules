@@ -7,3 +7,6 @@
 [submodule "mht-zigbee-client-js"]
 	path = mht-zigbee-client-js
 	url = git@github.com:vinhlq/mht-zigbee-client-js.git
+[submodule "mht-zigbee-docs"]
+	path = mht-zigbee-docs
+	url = git@github.com:vinhlq/mht-zigbee-docs.git
